@@ -1,8 +1,8 @@
 <div align="center">
 
-# RIYAPRITI07
+# RIYAPRITI G
 
-### SOFTWARE ENGINEERING • AI/ML • FULL-STACK DEVELOPMENT
+### SOFTWARE ENGINEERING 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Riyapriti07&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
