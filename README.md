@@ -202,37 +202,6 @@ An AI-driven platform designed to interpret user requirements and match them wit
 
 ---
 
-## 🎓 EDUCATION
-
-### Bachelor of Engineering — Computer Science and Engineering
-
-**Vivekanandha College of Engineering for Women**
-
-`Sep 2023 — May 2027`
-Namakkal, Tamil Nadu
-
-**CGPA: 8.5 / 10**
-
-### Relevant Coursework
-
-`Data Structures & Algorithms`
-`Object-Oriented Programming`
-`Database Management Systems`
-`Computer Networks`
-
----
-
-## 📜 CERTIFICATIONS
-
-| Certification                                    | Platform            |
-| :----------------------------------------------- | :------------------ |
-| **Human Computer Interaction — Elite + Gold**    | NPTEL               |
-| **MongoDB**                                      | Infosys Springboard |
-| **Web Design**                                   | Udemy               |
-| **Getting Started with Artificial Intelligence** | IBM SkillsBuild     |
-
----
-
 ## 🧠 AI / ML INTERESTS
 
 I am actively expanding my knowledge in **Artificial Intelligence and Machine Learning**, with practical exposure through academic and project work.
@@ -247,10 +216,6 @@ I am actively expanding my knowledge in **Artificial Intelligence and Machine Le
 * AI-assisted Applications
 * Data Processing
 * Intelligent Automation
-
-### Practical Exposure
-
-`OpenCV` `Haar Cascade` `LBPH` `Python` `AI-assisted Matching`
 
 ---
 
