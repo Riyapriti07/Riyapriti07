@@ -2,17 +2,17 @@
 
 # RIYAPRITI G
 
-### SOFTWARE ENGINEERING 
+### SOFTWARE ENGINEER • FULL-STACK DEVELOPER • AI/ML ENTHUSIAST
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Riyapriti07&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Building+modern+and+scalable+applications;Turning+ideas+into+usable+digital+products;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;React.js+%7C+Angular+%7C+Node.js+%7C+NestJS;Building+scalable+and+user-focused+applications;Exploring+AI%2FML+and+intelligent+systems" alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Software%20Engineering-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-4F46E5?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-6366F1?style=for-the-badge&logo=stackshare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20%7C%20Angular-4F46E5?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <br><br>
 
@@ -28,10 +28,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Riyapriti07">
-<img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Riyapriti07&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
@@ -44,40 +40,31 @@
 
 ---
 
-## PROFESSIONAL SUMMARY
+## 👩‍💻 ABOUT ME
 
-I am a software developer focused on building modern web applications and practical digital products with an emphasis on clean code, responsive interfaces, maintainable architecture, and continuous learning.
+I am a **final-year Computer Science and Engineering undergraduate** with hands-on experience in full-stack development and a strong interest in building scalable, user-focused software applications.
 
-My development work includes **TypeScript, HTML, Astro, frontend development, authentication interfaces, and EV-focused applications**.
+My development experience includes **React.js, Angular, Node.js, NestJS, MongoDB, Python, RESTful APIs, database integration, authentication systems, and modern web development**.
 
-I am interested in expanding my expertise across **software engineering, full-stack development, artificial intelligence, machine learning, cloud technologies, and product engineering**.
+I have worked on real-world internship projects involving **MERN stack development, Angular, NestJS, reusable validation systems, Role-Based Access Control (RBAC), API integration, Git workflows, and Agile development**.
 
-I enjoy transforming ideas into functional applications while continuously improving my technical problem-solving and development skills.
+I am also exploring **Artificial Intelligence, Machine Learning, intelligent resource matching, computer vision, and AI-powered applications**.
 
-### CORE FOCUS
+I enjoy solving problems systematically, learning new technologies, and turning ideas into functional digital products.
 
-- Software Engineering
-- Full-Stack Web Development
-- AI / Machine Learning
-- TypeScript Development
-- Modern Frontend Development
-- Authentication Systems
-- Product Engineering
-- Open Source Development
+### 🎯 CURRENT INTERESTS
 
-### OPEN TO
-
-`Software Engineering` `Full Stack Development` `AI/ML` `Frontend Development` `Backend Development` `Open Source`
+`Software Engineering` `Full-Stack Development` `AI/ML` `Web Development` `Backend Engineering` `System Design` `Open Source`
 
 ---
 
-## TECH STACK
+## 🛠️ TECH STACK
 
-### LANGUAGES
+### PROGRAMMING LANGUAGES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,python,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark"/>
 
 </div>
 
@@ -85,252 +72,189 @@ I enjoy transforming ideas into functional applications while continuously impro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css&theme=dark"/>
 
 </div>
 
-### BACKEND & DATABASES
+### BACKEND
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark"/>
 
 </div>
 
-### CLOUD, DEVOPS & TOOLING
+### DATABASES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
 
 </div>
 
----
-
-## AI / ML EXPERTISE
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Machine Learning | Developing | Building foundational knowledge of machine learning concepts and workflows |
-| Artificial Intelligence | Developing | Exploring practical AI application development |
-| Generative AI | Developing | Exploring LLM-powered applications and AI-assisted workflows |
-| Data Processing | Developing | Learning practical data preparation and transformation |
-| Intelligent Automation | Developing | Exploring AI-assisted automation and productivity workflows |
-
----
-
-## FEATURED PROJECTS
-
-<details>
-<summary><strong>⚡ EV Slot Booking</strong></summary>
-
-### EV Slot Booking
-
-A project focused on creating a digital booking experience for EV charging slots.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | TypeScript |
-| **Scale** | Application Project |
-| **Performance** | Responsive user experience |
-| **Security** | Application-flow focused |
-| **Impact** | EV charging booking concept |
-| **Repository** | [EV-slot-booking](https://github.com/Riyapriti07/EV-slot-booking) |
-
-### Engineering Focus
-
-- EV charging-slot booking workflow
-- User-oriented application flow
-- TypeScript development
-- Product-focused application design
-- Modern web development
-
-</details>
-
-<details>
-<summary><strong>🔐 Astro Auth UI</strong></summary>
-
-### Astro Auth UI
-
-An authentication-focused interface built using modern web technologies and the Astro ecosystem.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Astro • TypeScript |
-| **Scale** | Frontend Project |
-| **Performance** | Lightweight architecture |
-| **Security** | Authentication-focused UI |
-| **Impact** | Reusable authentication interface |
-| **Repository** | [astro-auth-ui](https://github.com/Riyapriti07/astro-auth-ui) |
-
-### Engineering Focus
-
-- Authentication interface development
-- Modern frontend architecture
-- Responsive UI development
-- Component-oriented design
-- Astro ecosystem exploration
-
-</details>
-
-<details>
-<summary><strong>🔑 Astro Login & Signup</strong></summary>
-
-### Astro Login & Signup
-
-A web project exploring login and registration interfaces using modern frontend technologies.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | HTML • Astro |
-| **Scale** | Web Project |
-| **Performance** | Lightweight frontend |
-| **Security** | Authentication workflow |
-| **Impact** | Login and registration experience |
-| **Repository** | [astro-login-signup](https://github.com/Riyapriti07/astro-login-signup) |
-
-### Engineering Focus
-
-- Login workflow
-- Registration workflow
-- Form-based interfaces
-- Authentication UX
-- Frontend fundamentals
-
-</details>
-
-<details>
-<summary><strong>🚗 EV Projects</strong></summary>
-
-### EV Application Projects
-
-A collection of projects exploring electric-vehicle applications and digital booking workflows.
-
-| Project | Repository |
-|:---|:---|
-| EV | [EV](https://github.com/Riyapriti07/EV) |
-| EV Slot Booking | [EV-slot-booking](https://github.com/Riyapriti07/EV-slot-booking) |
-| EV Slot Booking Demo | [ev-slot-booking-demo](https://github.com/Riyapriti07/ev-slot-booking-demo) |
-| EV Slot Booking Live | [ev-slot-booking-live](https://github.com/Riyapriti07/ev-slot-booking-live) |
-
-### Engineering Focus
-
-- Electric mobility applications
-- Booking workflows
-- TypeScript development
-- Product experimentation
-- User-focused application design
-
-</details>
-
-<details>
-<summary><strong>🌐 HTML Foundation</strong></summary>
-
-### HTML
-
-A foundational repository focused on core web-development concepts and HTML.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | HTML |
-| **Scale** | Foundational Web Project |
-| **Performance** | Native browser technologies |
-| **Security** | Structured markup |
-| **Impact** | Strengthens web-development fundamentals |
-| **Repository** | [html](https://github.com/Riyapriti07/html) |
-
-</details>
-
----
-
-## EXPERIENCE
-
-### Software Development Projects
-
-**Independent Development**  
-`2026 — Present`
-
-Developing and experimenting with modern software projects across web development, authentication interfaces, TypeScript applications, and EV-focused product concepts.
-
-### Scope of Work
-
-- Develop responsive web interfaces
-- Build TypeScript-based applications
-- Explore modern frontend architecture
-- Develop authentication-oriented experiences
-- Build EV booking workflows
-- Maintain GitHub repositories
-- Explore AI/ML technologies
-- Continuously improve software engineering skills
-
-### Skills
-
-`TypeScript` `JavaScript` `HTML` `CSS` `Astro` `Git` `GitHub` `Web Development`
-
----
-
-## ACHIEVEMENTS
+### TOOLS & PLATFORMS
 
 <div align="center">
 
-| Recognition | Details |
-|:---:|:---|
-| **GitHub Development** | Multiple public software projects |
-| **TypeScript Projects** | Public TypeScript application development |
-| **Web Development** | Authentication, booking and frontend projects |
-| **Continuous Learning** | Expanding software engineering and AI/ML knowledge |
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jira,linux&theme=dark"/>
 
 </div>
 
 ---
 
-## CERTIFICATIONS & LEARNING
+## 💻 TECHNICAL SKILLS
 
-> Add your actual certification names and links here when available.
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology%20Learning-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-6366F1?style=for-the-badge"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Learning-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
+| Category                  | Technologies                                               |
+| :------------------------ | :--------------------------------------------------------- |
+| **Languages**             | Python, JavaScript                                         |
+| **Frontend**              | React.js, Angular, HTML5, CSS3                             |
+| **Backend**               | Node.js, Express.js, NestJS                                |
+| **Databases**             | MongoDB, MySQL, PostgreSQL                                 |
+| **APIs**                  | RESTful API Development & Integration                      |
+| **Computer Science**      | Data Structures & Algorithms, OOP, DBMS, Computer Networks |
+| **Tools**                 | Git, GitHub, Postman, VS Code, Jira, Docker                |
+| **AI / Computer Vision**  | Python, OpenCV, Haar Cascade, LBPH                         |
+| **Development Practices** | Git Workflows, Pull Requests, Code Reviews, Agile          |
 
 ---
 
-## CODING PROFILES
+## 💼 EXPERIENCE
 
-<div align="center">
+### Angular & NestJS Developer Intern
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+**AAIVAGAM Technologies**
+`Jul 2026 — Jul 2026` • Chennai
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+* Developed scalable web application modules using **Angular and NestJS**.
+* Implemented **Reactive Forms, reusable validation pipelines, and Role-Based Access Control (RBAC)**.
+* Engineered a centralized client-side validation framework using reusable components.
+* Achieved a reported **30% reduction in invalid form submissions** through improved validation.
+* Integrated Angular frontend modules with **NestJS RESTful APIs**.
+* Resolved cross-module integration issues to maintain reliable end-to-end data flow.
+* Focused on maintainability, consistency, and user experience.
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Programming-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
+**Technologies:** `Angular` `NestJS` `TypeScript` `REST APIs` `Reactive Forms` `RBAC`
 
 ---
 
-## GITHUB ANALYTICS
+### MERN Stack Developer Intern
+
+**Sparkout Tech Solutions Pvt. Ltd**
+`Jun 2025 — Jul 2025` • Coimbatore
+
+* Developed scalable full-stack application features using the **MERN stack**.
+* Built modular and maintainable solutions within **Agile sprint cycles**.
+* Designed and implemented **RESTful APIs** for frontend-backend communication.
+* Contributed to a reported **20% reduction in average API response time**.
+* Collaborated through Git-based development workflows.
+* Worked with **feature branches, pull requests, and peer code reviews**.
+* Contributed to timely sprint delivery and code quality.
+
+**Technologies:** `MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `Git`
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🏥 Centralized PHC Monitoring and Management System
+
+A centralized healthcare management platform designed to support **patient records, PHC operations, doctor attendance, reporting, and real-time administrative monitoring**.
+
+**Technology Stack**
+
+`Python` `Flask` `HTML` `CSS` `JavaScript` `OpenCV` `Haar Cascade` `LBPH`
+
+**Key Features**
+
+* Centralized patient record management
+* PHC operational management
+* Doctor attendance tracking
+* Real-time monitoring dashboards
+* Automated facial-recognition-based attendance
+* OpenCV-based computer vision
+* Haar Cascade face detection
+* LBPH facial recognition
+* SMTP/Twilio communication integration
+* Administrative reporting
+
+---
+
+### 🤖 AI-Assisted Hyperlocal Resource Matching Platform
+
+An AI-driven platform designed to interpret user requirements and match them with nearby resources based on **location, availability, and budget constraints**.
+
+**Technology Stack**
+
+`React.js` `NestJS` `MongoDB` `Python`
+
+**Key Features**
+
+* Need-first resource discovery
+* AI-assisted requirement interpretation
+* Hyperlocal resource matching
+* Intelligent resource ranking
+* Location-based matching
+* Availability-aware recommendations
+* Budget-aware matching
+* Real-time request and booking workflows
+* Resource management
+* User feedback system
+
+---
+
+## 🎓 EDUCATION
+
+### Bachelor of Engineering — Computer Science and Engineering
+
+**Vivekanandha College of Engineering for Women**
+
+`Sep 2023 — May 2027`
+Namakkal, Tamil Nadu
+
+**CGPA: 8.5 / 10**
+
+### Relevant Coursework
+
+`Data Structures & Algorithms`
+`Object-Oriented Programming`
+`Database Management Systems`
+`Computer Networks`
+
+---
+
+## 📜 CERTIFICATIONS
+
+| Certification                                    | Platform            |
+| :----------------------------------------------- | :------------------ |
+| **Human Computer Interaction — Elite + Gold**    | NPTEL               |
+| **MongoDB**                                      | Infosys Springboard |
+| **Web Design**                                   | Udemy               |
+| **Getting Started with Artificial Intelligence** | IBM SkillsBuild     |
+
+---
+
+## 🧠 AI / ML INTERESTS
+
+I am actively expanding my knowledge in **Artificial Intelligence and Machine Learning**, with practical exposure through academic and project work.
+
+### Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Generative AI
+* Computer Vision
+* Intelligent Matching Systems
+* AI-assisted Applications
+* Data Processing
+* Intelligent Automation
+
+### Practical Exposure
+
+`OpenCV` `Haar Cascade` `LBPH` `Python` `AI-assisted Matching`
+
+---
+
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -346,7 +270,7 @@ Developing and experimenting with modern software projects across web developmen
 
 ---
 
-## GITHUB TROPHIES
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -356,7 +280,7 @@ Developing and experimenting with modern software projects across web developmen
 
 ---
 
-## CONTRIBUTION ACTIVITY
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -366,7 +290,7 @@ Developing and experimenting with modern software projects across web developmen
 
 ---
 
-## CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -376,33 +300,86 @@ Developing and experimenting with modern software projects across web developmen
 
 ---
 
-## CURRENT FOCUS
+## 🔭 CURRENT FOCUS
 
 ```yaml
 Learning:
-  - Advanced TypeScript
-  - Full Stack Development
+  - Advanced JavaScript
+  - Full-Stack Development
   - Artificial Intelligence
   - Machine Learning
-  - Cloud Technologies
   - System Design
+  - Cloud Technologies
 
 Building:
-  - Modern Web Applications
-  - EV Applications
-  - Authentication Systems
-  - Product-focused Projects
+  - Full-Stack Web Applications
+  - AI-assisted Applications
+  - Intelligent Matching Systems
+  - Developer-focused Projects
 
 Exploring:
   - Generative AI
-  - AI-powered Applications
-  - Backend Development
+  - Computer Vision
+  - Backend Engineering
+  - Scalable Architecture
   - Open Source
-  - Developer Tooling
 
-Open To:
+Interested In:
   - Software Engineering
-  - Full Stack Development
+  - Full-Stack Development
   - AI/ML Projects
-  - Open Source Collaboration
+  - Backend Development
   - Product Engineering
+  - Open Source Collaboration
+```
+
+---
+
+## 🌱 DEVELOPMENT JOURNEY
+
+```text
+2023 ─────────────── Started Computer Science Engineering
+                         │
+2024 ─────────────── Strengthened programming & CS fundamentals
+                         │
+2025 ─────────────── MERN Stack Internship
+                         │
+2025 ─────────────── AI-Assisted Resource Matching Project
+                         │
+2026 ─────────────── Angular & NestJS Internship
+                         │
+2026 ─────────────── PHC Monitoring & Computer Vision Project
+                         │
+2027 ─────────────── B.E. Computer Science & Engineering
+                         │
+                         ▼
+                 Building • Learning • Growing
+```
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+I'm interested in connecting with developers, engineers, and teams working on interesting software and AI projects.
+
+<br>
+
+<a href="mailto:riyapriti07@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/riyapriti">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Riyapriti07">
+<img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 💜 Build. Learn. Improve. Repeat.
+
+</div>
