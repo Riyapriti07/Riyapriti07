@@ -270,11 +270,17 @@ I am actively expanding my knowledge in **Artificial Intelligence and Machine Le
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Riyapriti07&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="900"/>
+**Building • Learning • Contributing • Growing**
+
+<br>
+
+<img src="https://img.shields.io/badge/Repositories-Building-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack-Development-4F46E5?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-Exploring-6366F1?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -284,17 +290,11 @@ I am actively expanding my knowledge in **Artificial Intelligence and Machine Le
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyapriti07&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+Your **GitHub contribution graph is shown directly on your profile page**, so it stays accurate and does not depend on third-party image services.
 
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Riyapriti07/Riyapriti07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<a href="https://github.com/Riyapriti07">
+<img src="https://img.shields.io/badge/View%20GitHub%20Activity-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
